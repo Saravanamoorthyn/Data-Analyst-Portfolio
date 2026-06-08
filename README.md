@@ -1,5 +1,5 @@
 # Data-Analyst-Portfolio
-# Data Analyst Portfolio — Saravana Moorthy N
+# Data Analyst Portfolio — SaravanaMoorthy N
 
 ## About Me
 BCA Graduate | Data Analyst | Python | Power BI | SQL
@@ -13,10 +13,20 @@ BCA Graduate | Data Analyst | Python | Power BI | SQL
 - LinkedIn Learning: Generative AI — May 2026
 
 ## Projects
+### Project 1: Healthcare Operations Dashboard ✅
+- Tool: Power BI
+- Dataset: Kaggle Healthcare Dataset — 56,000 patient records
+- Skills: Power Query, DAX Measures, Data Visualization
+- Key Insights:
+  - All 6 medical conditions affect patients almost equally
+  - Average billing is ₹25,540 across all hospitals
+  - Gender split is exactly 50/50 — 28K Male, 28K Female
+- Files: .pbix | .pdf | .png screenshot
+
 ### Coming Soon
-- Healthcare Operations Dashboard (Power BI)
 - Sales Performance Dashboard (Power BI + Python)
 - HR Employee Attrition Analysis (Python + Power BI)
+- COVID-19 Data Analysis (Python)
 
 ## Skills
 Python | Pandas | Matplotlib | Power BI | SQL | Excel | Tableau
